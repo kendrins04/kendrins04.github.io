@@ -1,0 +1,45 @@
+body {background-color: rgb(16, 20, 40)}
+        h1 {color: white}
+        h1 {background-color: green}
+        p {color: white}
+        
+        	* {
+        		box-sizing: border-box;
+        	}
+        	
+        	.row {
+        		content: "";
+        		display: table;
+        		clear: both;
+    		}
+    		
+    		.columnLeft{
+    			float: left;
+    			width: 25%;
+    			padding: 20px;
+    		}
+    		
+    		.columnRight{
+    			float: right;
+    			width: 75%;
+    			padding: 20px;
+    		}
+    		
+ul.nav {
+list-style-type: none;
+background color: green;
+margin: 0;
+padding: 0; 
+overflow: hidden;}
+
+li a {
+  float: left;
+  display: block;
+  color: white;
+  padding: 8px 16px;
+  text-align: left;
+  }
+  
+li a:hover {
+background color: purple;
+}
