@@ -1,6 +1,5 @@
 body {background-color: rgb(16, 20, 40)}
         h1 {color: white}
-        h1 {background-color: green}
         p {color: white}
         
         	* {
@@ -24,10 +23,11 @@ body {background-color: rgb(16, 20, 40)}
     			width: 75%;
     			padding: 20px;
     		}
-    		
+    	x
+.content{color: yellow;}	
 ul.nav {
 list-style-type: none;
-background color: green;
+background-color: green;
 margin: 0;
 padding: 0; 
 overflow: hidden;}
@@ -41,5 +41,5 @@ li a {
   }
   
 li a:hover {
-background color: purple;
+background-color: purple;
 }
